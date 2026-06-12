@@ -2,8 +2,7 @@
  *Spring Boot Boilerplate* is a **starter kit**. This project is a very simple and useful.
  
 ## Technologies 
-
-- Spring Boot (v4.0.6)
+- Spring Boot (v4.1.0)
 - Spring Data JPA
 - Spring Validation
 - Spring Security + JWT Token
